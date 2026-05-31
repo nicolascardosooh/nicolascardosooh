@@ -6,7 +6,10 @@
   <img src="https://img.shields.io/badge/DevOps_%26_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
 </p>
 
-> 💻 Especialista no desenho e construção de sistemas corporativos ponta a ponta, combinando sólida arquitetura backend com interfaces modernas, escaláveis e resilientes. Atuo com foco em regras de negócio complexas, transição para microsserviços e automação de infraestrutura.
+> ## 🎯 PERFIL PROFISSIONAL
+Engenheiro de Software Full-Stack Sênior e Arquiteto de Soluções especialista no desenho e construção de sistemas ponta a ponta. Combino uma sólida e versátil arquitetura backend nos ecossistemas **.NET (C#)** e **PHP (Laravel)** com interfaces dinâmicas, escaláveis e de alta performance em **React.js e Next.js**. 
+
+Possuo experiência prática e comprovada liderando a transição de sistemas legados e monolíticos para microsserviços modernos, desenho de APIs RESTful estruturadas, comunicação assíncrona orientada a eventos (Mensageria com Node.js) e automação de esteiras de **CI/CD** em ambientes conteinerizados com **Docker**. Especialista em otimização avançada de queries e tunning em bancos de dados relacionais (SQL Server e PostgreSQL). Profissional com perfil consultivo, forte autonomia para tomada de decisões maduras de design de software, foco em regras de negócio complexas e mentoria técnica de desenvolvedores.
 
 ---
 

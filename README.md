@@ -1,62 +1,65 @@
-# Olá, eu sou o Nicolas Cardoso 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Senior_Full_Stack_Engineer-007ACC?style=for-the-badge&logo=.net&logoColor=white" alt="Senior Full Stack" />
-  <img src="https://img.shields.io/badge/Software_Architect-4F5D95?style=for-the-badge&logo=architecture&logoColor=white" alt="Architect" />
-  <img src="https://img.shields.io/badge/DevOps_%26_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="DevOps" />
-</p>
-
-> 💻 Especialista no desenvolvimento de ecossistemas corporativos de missão crítica, plataformas SaaS robustas e arquiteturas orientadas a eventos de alta volumetria. Com foco em engenharia de software de alta performance, atuo construindo soluções escaláveis e resilientes do backend à infraestrutura.
+# NÍCOLAS DE SOUZA CARDOSO
+**Senior Full-Stack Engineer & Software Architect**  
+📍 Canoas, RS - Brasil | 📞 (51) 99569-1157  
+✉️ nicolascardoso1989@gmail.com | 🌐 [GitHub](https://github.com/nicolascardosooh) | 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-cardoso-b254512b6/)  
+*Disponibilidade: Período Integral (Remoto / Presencial)*
 
 ---
 
-## 🛠️ Stack Tecnológica & Core Competencies
-
-| Camada | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Backend** | ![.NET](https://img.shields.io/badge/.NET_8_%2F_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_Moderno-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Webpack 5](https://img.shields.io/badge/Webpack_5-8ED6FB?style=flat-square&logo=webpack&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Bancos & Busca** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
-| **Infra & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **CI/CD & Quality** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![GitFlow](https://img.shields.io/badge/GitFlow-F05032?style=flat-square&logo=git&logoColor=white) |
-
-*   **Padrões & Práticas:** Clean Architecture, Domain-Driven Design (DDD), SOLID, Design Patterns, Resiliência de APIs com Polly (Circuit Breaker / DLQ).
-*   **Observabilidade:** Monitoramento proativo através de logs estruturados (Serilog), métricas, tracing e telemetria em tempo real com WebSockets.
+## 🎯 PERFIL PROFISSIONAL
+Engenheiro de Software Full-Stack Sênior com sólida experiência no desenho, construção e evolução de sistemas corporativos de ponta a ponta. Especialista em arquitetura backend utilizando o ecossistema **.NET (C#)** e **PHP (Laravel)**, combinado com interfaces robustas e escaláveis em **React.js, Next.js e Angular**. Experiência prática e comprovada na transição de sistemas monolíticos para microsserviços, implementação de arquiteturas orientadas a eventos (mensageria assíncrona), otimização complexa de bancos de dados e construção de esteiras automatizadas de **CI/CD** utilizando **GitHub Actions** em ambientes conteinerizados com **Docker**. Profissional com perfil analítico, autonomia para tomadas de decisões técnicas maduras, foco em regras de negócio complexas e mentoria de desenvolvedores.
 
 ---
 
-## 🚀 Principais Projetos de Expressão
+## 🛠️ EXPERTISE TÉCNICA (HARD SKILLS)
 
-### 🌐 GestãoWebPrisma | `Core Fiscal & ERP`
-<kbd>![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)</kbd>
-
-*   **O Projeto:** Sistema de gestão corporativa e ERP completo de missão crítica.
-*   **Destaque Técnico:** Arquitetura altamente resiliente construída para lidar com emissão em larga escala de documentos fiscais eletrônicos (**NFC-e / NF-e**) e integração de pagamentos com **TEF**. Desenvolvido com padrões assíncronos e políticas de retentativas automáticas para blindar a aplicação contra indisponibilidades de serviços externos (como as SEFAZ estaduais).
-
-### 🤖 JARVIS | `Multi-Agent Offline AI`
-<kbd>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)</kbd>
-
-*   **O Projeto:** Assistente inteligente e infraestrutura multi-agente offline projetada para otimização de DevOps e engenharia interna.
-*   **Destaque Técnico:** Arquitetura que orquestra modelos locais e em nuvem de forma segura para monitoramento em tempo real de logs de servidores corporativos, análise de falhas críticas na infraestrutura e automação inteligente de refatorações de código através de múltiplos repositórios isolados usando *Streams/Generators* para controle estrito de memória.
-
-### 💳 Tech Pozz | `Plataforma SaaS`
-<kbd>![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)</kbd>
-
-*   **O Projeto:** Arquitetura e infraestrutura SaaS escalável baseada no modelo Multi-tenant.
-*   **Destaque Técnico:** Desenhada sob o conceito de isolamento estrito de dados (*Tenant Separation*), alta disponibilidade e deploy automatizado por esteiras CI/CD. Infraestrutura robusta migrada estrategicamente para a **AWS** visando auto-scaling para suportar o crescimento agressivo de clientes simultâneos.
+*   **Backend & Arquitetura:** .NET 8 / Core, ASP.NET Core, .NET Framework, MVC, Web Services, APIs RESTful (Síncronas e Assíncronas), Clean Architecture, DDD, SOLID, Design Patterns.
+*   **Linguagens & Outros Frameworks:** C#, PHP (Laravel, CakePHP, CodeIgniter), Node.js (TypeScript/JavaScript), Python (Flask, Django, Automações/Selenium), Java.
+*   **Frontend Moderno:** React.js, Next.js (SSR/ISR), Angular, Vue.js, TypeScript, Redux, MobX, HTML5, CSS3, TailwindCSS, Bootstrap.
+*   **Mobile:** React Native, Expo, gerenciamento e deploy completo nas lojas Google Play e Apple App Store.
+*   **Bancos de Dados & Otimização:** SQL Server (SSMS, Procedures, Views, Otimização de Queries, Prevenção de Locks), MySQL, PostgreSQL, MongoDB.
+*   **DevOps, Containers & CI/CD:** Docker, Docker Compose, Portainer, GitHub Actions (Automação de Pipelines de Build, Testes e Deploy), Git/GitFlow, Ambientes Linux (Ubuntu).
+*   **Ferramentas, IDEs & IA:** Cursor, VS Code, Visual Studio, Postman, SSMS, Integração Avançada com IAs (Gemini, Claude, DeepSeek).
 
 ---
 
-## 📈 Metodologias & Engenharia de Produção
+## 💼 EXPERIÊNCIA PROFISSIONAL
 
-```mermaid
-gantt
-    title Ciclo de Vida do Código (Esteira CI/CD Automatizada)
-    dateFormat  X
-    axisFormat %s
-    section Desenvolvimento
-    Escrita de Código & Testes Unitários (Pest/xUnit) :active, desc1, 0, 5
-    section Code Quality
-    Análise Estática de Segurança (SonarQube)        :crit, desc2, 5, 8
-    section Deploy (CD)
-    Geração da Imagem Docker & Push AWS/Hostinger     :desc3, 8, 12
+### **Hábil Informática Ltda** – Canoas/RS
+*Desenvolvedor Full-Stack Sênior (Contrato PJ)* | **03/2025 – Atual**
+*   **Arquitetura & Evolução:** Liderança técnica na engenharia de soluções de alta disponibilidade e missão crítica utilizando C# (.NET Core / MVC) e PHP Laravel, desenhando estratégias para a migração progressiva de monólitos para arquiteturas modernas de Microsserviços.
+*   **Integrações & Ecossistema Assíncrono:** Desenho e implementação de APIs RESTful escaláveis e barramentos de comunicação orientada a eventos utilizando Node.js.
+*   **Infraestrutura & DevOps:** Conteinerização completa de aplicações utilizando Docker e Docker Compose, gerenciamento de ambientes via Portainer e desenvolvimento de scripts em Python para automação de rotinas internas. Otimização pesada de bancos de dados SQL Server para suporte a alto tráfego.
+*   **Mobile:** Sustentação e evolução de aplicativos móveis utilizando React Native e ecossistema Expo.
+
+### **Fabesul Comércio e Suprimentos Ltda** – Porto Alegre/RS
+*Programador Full-Stack Efetivo* | **06/2023 – 02/2025**  
+*Estágio como Desenvolvedor Full-Stack* | **01/2023 – 06/2023**
+*   **Soluções Corporativas:** Desenvolvimento de sistemas críticos com foco em regras de negócio complexas utilizando C# (.NET, ASP.NET Framework, MVC, Windows Forms) e PHP (Laravel).
+*   **Decoupling:** Atuação ativa na quebra de monólitos legados para estruturas desacopladas de microsserviços.
+*   **Frontend & Mobile:** Construção de interfaces SPA modernas com React.js e Angular, além do desenvolvimento de aplicativos móveis nativos com React Native.
+*   **Dados & Resiliência:** Monitoramento e otimização de consultas relacionais em SQL Server e estruturas NoSQL, garantia de segurança em rotinas de backup, automações com Python e isolamento de serviços via containers Docker.
+
+### **Hábil Informática Ltda** – Canoas/RS
+*Desenvolvedor Full-Stack* | **04/2022 – 12/2022**
+*   **Módulos Web:** Desenvolvimento, manutenção e entrega de novas funcionalidades web utilizando C# (MVC) e PHP Laravel.
+*   **Componentização:** Criação de componentes SPA reutilizáveis e performáticos com React e Angular.
+*   **Automação & Processos:** Escrita de scripts em Python para automação de cargas de dados e rotinas internas de sincronização de APIs com Node.js.
+
+### **Desenvolvedor Full-Stack**
+*Projetos Independentes & Evolução Técnica (Freelancer / Autônomo)* | **02/2020 – 03/2022**
+*   **Fundação em Engenharia:** Construção de softwares comerciais de ponta a ponta focados em POO (Programação Orientada a Objetos) avançada utilizando C#, migrando rapidamente para arquiteturas web baseadas em ASP.NET Framework e ASP.NET MVC.
+*   **Design de APIs:** Modelagem de bancos de dados relacionais e exposição das primeiras APIs para consumo. Estudo focado na transição para ecossistemas modernos de frontends (React e Angular).
+
+---
+
+## 🎓 FORMAÇÃO ACADÊMICA
+
+*   **Pós-Graduação em Desenvolvimento Web** – Faculdade Imes  
+    *Concluído: 10/2025*
+*   **Tecnólogo em Sistemas para Internet** – Faculdade Anhanguera  
+    *Concluído: 12/2024*
+*   **Técnico em Informática para Internet** – Senac/RS  
+    *Concluído: 08/2022*
+*   **Ensino Médio Concluído**  
+    *Período: 2019 - 2021*
